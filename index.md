@@ -7,5 +7,5 @@ I am a second year Data Science student at Oregon State University. Prior to my 
 - Collaboration/Working in teams to achieve a goal
 - Communicating with and leading groups to streamline projects
 - Working efficiently and calmly in a fast paced environment
-##Projects
+###Projects
 Projects in progress, check back soon!
